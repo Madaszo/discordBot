@@ -1,0 +1,30 @@
+{
+    "color": 0,
+    "author": {
+        "name": "name",
+        "icon_url": "-"
+        },
+    "description": "My purpose is to score users based on their activity",
+    "fields": [
+    {
+        "name": "prefix",
+        "value": "-"
+    },
+    {
+        "name": "score",
+        "value": "present score board"
+        },
+    {
+        "name": "myScore",
+        "value": "present your score and position"
+        },
+    {
+        "name": "helpMe",
+        "value": "print this message"
+        },
+    {
+        "name": "usable emoji",
+        "value": "-"
+    }
+    ]
+}

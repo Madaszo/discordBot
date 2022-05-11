@@ -1,0 +1,7 @@
+{
+    "TOKEN":"token",
+    "emoji":"emoji",
+    "prefix":"prefix",
+    "color": 0,
+    "intents": 32767
+}
